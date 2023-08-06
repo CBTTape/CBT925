@@ -1,0 +1,8 @@
+2023-08-06 08:29:11.389729 - Initialized conversion of CBT925
+2023-08-06 08:29:11.447646 - Received CBT.V505.FILE925.PDS from FILE925.XMI 
+2023-08-06 08:29:11.450044 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE925.PDS, moved to PDS/$$$#DATE
+2023-08-06 08:29:11.450979 - Found @FILE925.txt (text/plain) in CBT.V505.FILE925.PDS, moved to PDS/@FILE925
+2023-08-06 08:29:11.452490 - Found ENL.rexx (text/plain) in CBT.V505.FILE925.PDS, moved to PDS/ENL
+2023-08-06 08:29:11.453574 - Found ENLPANNV.txt (text/plain) in CBT.V505.FILE925.PDS, moved to PDS/ENLPANNV
+2023-08-06 08:29:11.454639 - Found ENLPANV.txt (text/plain) in CBT.V505.FILE925.PDS, moved to PDS/ENLPANV
+2023-08-06 08:29:11.455619 - Found ENLVSAM.rexx (text/plain) in CBT.V505.FILE925.PDS, moved to PDS/ENLVSAM
